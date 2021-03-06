@@ -1,0 +1,1 @@
+tazas<-rep("Rojo","Verde","Azul")
